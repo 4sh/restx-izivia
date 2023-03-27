@@ -5,7 +5,7 @@
     <parent>
         <groupId>io.restx</groupId>
         <artifactId>restx-parent</artifactId>
-        <version>0.37.0-izivia</version>
+        <version>0.37.1-izivia-SNAPSHOT</version>
     </parent>
 
     <artifactId>restx-server-simple</artifactId>
